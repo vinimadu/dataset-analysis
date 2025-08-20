@@ -1,0 +1,125 @@
+{
+    "BDD100k": [
+        {
+            "url": "http://128.32.162.150/bdd100k/bdd100k_images_100k.zip",
+            "folder_to_extract": "100k",
+            "folder_in_zip": true
+        },
+        {
+            "url": "http://128.32.162.150/bdd100k/bdd100k_labels.zip",
+            "folder_to_extract": "100k",
+            "folder_in_zip": true
+        }
+    ],
+    "TT100k": [
+        {
+            "url": "https://cg.cs.tsinghua.edu.cn/traffic-sign/tt100k_2021.zip",
+            "folder_to_extract": "tt100k_2021",
+            "folder_in_zip": true
+        }
+    ],
+    "CCTSDB": [
+        {
+            "drive_file_id": "1OGkBy0uqLqU9Rhlt2EEJ3JpjrRBidk4q",
+            "downloaded_filename": "train_labels.zip",
+            "folder_to_extract": "train_labels",
+            "folder_in_zip": true
+        },
+        {
+            "drive_file_id": "16AOvPcH_3-gGhXe6q7VfB4EINkui5NWD",
+            "downloaded_filename": "train_img.zip",
+            "folder_to_extract": "train_img",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1p4W9dkk6LEJqi_j9rb2yWxGMjDq0vdKI",
+            "downloaded_filename": "test_labels.zip",
+            "folder_to_extract": "test_labels",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1lCYYiNNBA8Ihml448EMtTyFDwX1WB4XO",
+            "downloaded_filename": "test_img.zip",
+            "folder_to_extract": "test_img",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1Pvi5Z-fiF3js1SsIbUdmNvx4qCvT9Vnx",
+            "downloaded_filename": "negative_samples.zip",
+            "folder_to_extract": "negative_samples",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1Slkxhp-Vb2GxaQD2s3Kjrm0PAnH3Mlta",
+            "downloaded_filename": "Classification based on weather a,nd environment.zip",
+            "folder_to_extract": "Classification based on weather and environment",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1tSECHBQ83ZaBdL2xAUbdXGnOYoofH5UY",
+            "downloaded_filename": "Classification based on size of traffic signs.zip",
+            "folder_to_extract": "Classification based on size of traffic signs",
+            "folder_in_zip": false
+        },
+        {
+            "drive_file_id": "1vz29VK0Z2zipwrxHpv2jCIGlUwWjjD8e",
+            "downloaded_filename": "xml.zip",
+            "folder_to_extract": "xml",
+            "folder_in_zip": true
+        }
+    ],
+    "GTSDB": [
+        {
+            "url": "https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/FullIJCNN2013.zip",
+            "folder_to_extract": "FullIJCNN2013",
+            "folder_in_zip": true
+        }
+    ],
+    "BelgiumTS": [
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera00.tar",
+            "folder_to_extract": "00",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera01.tar",
+            "folder_to_extract": "01",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera02.tar",
+            "folder_to_extract": "02",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera03.tar",
+            "folder_to_extract": "03",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera04.tar",
+            "folder_to_extract": "04",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera05.tar",
+            "folder_to_extract": "05",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera06.tar",
+            "folder_to_extract": "06",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/Annotations/camera07.tar",
+            "folder_to_extract": "07",
+            "folder_in_zip": true
+        },
+        {
+            "url": "https://btsd.ethz.ch/shareddata/BelgiumTS/BelgiumTSD_annotations.zip",
+            "folder_to_extract": "BelgiumTSD_annotations",
+            "folder_in_zip": true
+        }
+    ]
+}
